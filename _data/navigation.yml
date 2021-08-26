@@ -1,0 +1,14 @@
+- title: 나란놈
+  url: /about/
+- title: Years
+  url: /years/
+- title: IT 개발 정보
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: More
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/
